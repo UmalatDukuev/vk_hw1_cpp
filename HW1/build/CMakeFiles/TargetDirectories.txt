@@ -1,3 +1,0 @@
-/home/dukuev/Desktop/work/build/CMakeFiles/hw1.dir
-/home/dukuev/Desktop/work/build/CMakeFiles/edit_cache.dir
-/home/dukuev/Desktop/work/build/CMakeFiles/rebuild_cache.dir
